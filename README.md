@@ -1,1 +1,1 @@
-welcome to new oractice project 
+welcome to new practice project 
